@@ -1,4 +1,4 @@
-# Hi, I'm Nehemiah👋
+ # Hi, I'm Nehemiah👋
 I'm a Front-End Developer (React, HTML, CSS, JS), Back-End Developer (Django, Node.js), Mobile Developer (Flutter, React Native), UI/UX Designer (Figma, Adobe XD), and Graphic Designer (Photoshop, Illustrator). I also teach coding and design.
 
 ## Tech Stack
@@ -7,7 +7,7 @@ I'm a Front-End Developer (React, HTML, CSS, JS), Back-End Developer (Django, No
 - ⚙️ **Back-End**: Django, Node.js
 - 📱 **Mobile**: Flutter, React Native
 - 🎨 **Design**: Figma, Adobe XD, Photoshop, Illustrator
-- 🐍 **Other**: Python, C#, C, C++
+- 🐍 **Other**: Python, C#, C, C++, Git
 - 📚 Passionate about coding, design, and teaching digital skills.
 
 
